@@ -1,1 +1,3 @@
 This repo has various use cases and module definition for tf.
+1. Backends  (Standard and Enchnaced)
+2. Provisioners (Remote Exec, Local Exec and File )
