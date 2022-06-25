@@ -1,3 +1,6 @@
 This repo has various use cases and module definition for tf.
 1. Backends  (Standard and Enchnaced)
 2. Provisioners (Remote Exec, Local Exec and File )
+3. Providers (Alias provider uses case diff azs)
+4. Modules( public modules -registry or private -)
+5. Terraform States 

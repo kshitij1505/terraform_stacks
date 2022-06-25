@@ -1,0 +1,8 @@
+terraform state list 
+terraform state mv    ---can be used for renaming resources and moving resource into modules 
+terraform state pull
+terraform state push
+terraform state rm
+terraform state show
+
+1.Terrform state backups are also stored for .tfstate file
