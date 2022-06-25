@@ -1,5 +1,5 @@
 /*
-
+To note you can search terraform init -migarte-state ------------------------
 Backend are the place where the .tfstate or the state file is stored 
 it also defines where and how our code is executed 
 */
